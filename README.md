@@ -3,6 +3,12 @@
 
 This is a general purpose [atproto](https://atproto.com) CLI tool, sort of like `curl`. You can fetch `at://` URIs, monitor the full-network firehose, migrate accounts, administer PDS instances, and more.
 
+> [!NOTE]
+> The `codex/permissioned-space-lexicons` branch is an experimental fork for
+> validating and publishing the `space` lexicons described by permissioned-data
+> proposal 0016. It depends on a matching Indigo fork and is not an assertion
+> that the proposal is part of the stable AT Protocol specification.
+
 ## Install
 
 If you use [homebrew](https://formulae.brew.sh/formula/goat), you can install directly:
