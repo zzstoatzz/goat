@@ -15,7 +15,7 @@ func TestLoadPermissionedSpaceSchemas(t *testing.T) {
     "main": {
       "type": "space",
       "key": "tid",
-      "name": "Plyr private media",
+      "title": "Plyr private media",
       "collections": ["fm.plyr.track"]
     }
   }

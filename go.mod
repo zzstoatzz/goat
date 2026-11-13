@@ -97,4 +97,4 @@ require (
 	lukechampine.com/blake3 v1.4.1 // indirect
 )
 
-replace github.com/bluesky-social/indigo => github.com/zzstoatzz/indigo v0.0.0-20260721203656-bf5887ccfe46
+replace github.com/bluesky-social/indigo => github.com/zzstoatzz/indigo v0.0.0-20261113001605-8dcca838d949

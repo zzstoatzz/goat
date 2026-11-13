@@ -16,7 +16,7 @@
             pname = "goat";
             version = "0.2.3-space-spike";
             src = ./.;
-            vendorHash = "sha256-ygXKxjgnNZeDmZNbYpT4SQB+UGgFgxYxiXRW7whBRYU=";
+            vendorHash = "sha256-bJM7ZwR3MLJnXL0jL8CaOLPlHj/6/lH3cSWq6vzFgeA=";
 
             ldflags = [ "-s" "-w" ];
 
